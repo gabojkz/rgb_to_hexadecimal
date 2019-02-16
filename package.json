@@ -1,0 +1,18 @@
+{
+  "name": "tek",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "jshint": "^2.10.1",
+    "jsdom-quokka-plugin": "^1.0.14"
+  },
+  "devDependencies": {
+    "eslint": "^5.14.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
